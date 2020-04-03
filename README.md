@@ -1,1 +1,1 @@
-# fs-open
+# Fullstackopen course Helsinki
